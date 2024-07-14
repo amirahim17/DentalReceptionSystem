@@ -1,0 +1,31 @@
+Ali bin Ahmad;020410-10-2431;0900;Tooth Filling
+Abu bin Samad;021112-08-2231;0930;Tooth Scaling
+Teoh Tan;001210-10-9573;1000;Braces
+Lee Tong Chin;970518-14-1857;1030;Tooth Scaling
+Luqman Hakim bin Affendy;840516-10-7589;1100;Tooth Filling
+Zakirah binti Jauhari;850930-10-6576;1100;Dentures
+Nur Farah binti Rosli;790824-14-5842;1200;Dentures
+Laila Amira binti Muhammad Fahri;001215-10-2783;1200;Tooth Filling
+Borhan bin Yam;020717-10-3517;1230;Tooth Filling
+Elly Hazwani binti Haris;030412-08-3542; 1300;Tooth Scaling
+Venice Lee;970404-05-9462;1330;Tooth Filling
+Fitry bin Ahmad Yusof;001104-06-2431;1330;Tooth Filling;
+Juwita Syaza binti Adli;980409-02-2431;1400;Braces
+Masyitah binti Dollah;890327-08-3774;1415;Tooth Scaling
+Siti Qayrina binti Abdul Amir;941024-02-0396;1445;Tooth Filling
+Alex Green;950922-04-9361;1500;Tooth Filling
+Melissa Sofia binti Shahran;020918-08-0508;1500;Braces
+Anuar bin Mohd Yunus;830529-06-5123;1515;Tooth Filling
+Elijah anak Tiyit;780917-13-608;1530;Dentures
+Farina binti Halim;991122-10-4984;1545;Tooth Filling
+Nurul Fida Nuha Binti Sabri;040518-10-4326;1600;Tooth Scaling
+Russel Leong;040529-09-6392;1600;Tooth Filling
+Faris Iskandar bin Manap;981013-08-6391;1615;Tooth Scaling
+Amirul Nasrin bin Nor Kamal;820617-08-2385;1615;Tooth Scaling
+Juwita Kasih binti Yusfaris;730730-14-7328;1630;Dentures
+Hanis Suhana binti Heri;010724-10-8360;1630;Tooth Filling
+Kasim;021012-08-2038;1800;Tooth Filling
+Danish Luqman;040131-14-0283;0900;Braces
+Abu bin Labi;041107-01-1232;1600;Tooth Filling
+Liana;313131131;0900;Dentures
+Siti Sazwana;040512-10-0504;1900;Tooth Filling
